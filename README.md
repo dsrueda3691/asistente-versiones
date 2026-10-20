@@ -30,4 +30,3 @@ Repositorio con todas las versiones de mis asistentes personales **Argos** y **V
 Descarga el ZIP de la versión que necesites, descomprime y abre el proyecto `.xcodeproj` en Xcode.
 
 ---
-*Creado automáticamente con Grok*
